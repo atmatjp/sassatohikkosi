@@ -14,6 +14,7 @@ import (
 )
 
 //機密情報は.envに
+
 //BOT_TOKEN=
 //SOURCE_CHANNEL_ID=
 //TARGET_FORUM_ID=
